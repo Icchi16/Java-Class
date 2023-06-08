@@ -1,6 +1,6 @@
 package model;
 
-public class Student {
+public class Student implements Comparable<Student>{
     private Integer studentId;
     private String name;
     private Double averageScore;
@@ -42,5 +42,10 @@ public class Student {
                 ", name='" + name + '\'' +
                 ", averageScore=" + averageScore +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Student student) {
+        return this.getStudentId().compareTo(student.getStudentId());
     }
 }
