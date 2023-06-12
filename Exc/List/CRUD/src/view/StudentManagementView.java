@@ -1,11 +1,5 @@
 package view;
 
-import config.Config;
-import model.Student;
-
-import java.util.ArrayList;
-import java.util.List;
-
 public class StudentManagementView {
     public static void UI() {
         System.out.println("-----------Choose an option-----------");
@@ -21,7 +15,7 @@ public class StudentManagementView {
     }
 
     public static void removeStudentUI() {
-        System.out.println("-----------Add new Student-----------");
-        System.out.println("Input following inquiry:");
+        System.out.println("-----------Remove Student-----------");
+        System.out.println("Enter student ID:");
     }
 }

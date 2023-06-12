@@ -11,7 +11,7 @@ public class StudentManagementIMPL implements StudentManagement {
     static {
         studentList.add(new Student(1, "Hung", 2.4));
         studentList.add(new Student(2, "Trang", 5.2));
-        studentList.add(new Student(3, "Jakc", 8.3));
+        studentList.add(new Student(3, "Jack", 8.3));
         studentList.add(new Student(4, "Miles", 7.4));
     }
 
