@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exc/List/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/Exc/List/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exc/List/CRUD/CRUD.iml" filepath="$PROJECT_DIR$/Exc/List/CRUD/CRUD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exc/List/Comparable_Comparator/Comparable_Comparator.iml" filepath="$PROJECT_DIR$/Exc/List/Comparable_Comparator/Comparable_Comparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exc/Exc.iml" filepath="$PROJECT_DIR$/Exc/Exc.iml" />
